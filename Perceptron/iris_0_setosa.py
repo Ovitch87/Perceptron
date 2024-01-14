@@ -55,8 +55,6 @@ ax.legend()
 plt.title('3D Plot of Iris Dataset with Setosa Separation Plane')
 plt.show()
 
-print(perceptron.errors_)
-
 plt.plot(range(1, len(perceptron.errors_) + 1), perceptron.errors_)
 plt.xlabel("Iteration")
 plt.ylabel("Number of Errors")
