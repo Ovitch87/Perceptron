@@ -20,7 +20,7 @@ To run the code, download the zip file and extract it to a directory of your cho
 
 Running the code will train the perceptron algorithm on the iris dataset. The accuracy of the found model will be printed to console and a 3D plot will be displayed of the datapoints and the found separation plane. A second plot will display the classification errors per iteration during training.
 
-*In the case of `iris_1_versicolor.py`, you might want to run the code more than once to find the best separation plane.
+*Although a random seed is set for the train-test split as well as the random weights initialization in the case of `iris_1_versicolor.py`, you might want to run the code more than once to find the best separation plane.
 
 ## Dependencies
 
