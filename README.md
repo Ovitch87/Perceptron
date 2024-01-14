@@ -16,9 +16,9 @@ The Perceptron folder contains three Python files:
 
 ## Running the Code
 
-To run the code, download the Perceptron folder to a directory of your choice. Execute any of the `iris_0_setosa.py`, `iris_1_versicolor.py`, or `iris_2_virginica.py` files using the terminal or your favorite editor.
+To run the code, download the zip file and extract it to a directory of your choice. Execute any of the `iris_0_setosa.py`, `iris_1_versicolor.py`, or `iris_2_virginica.py` files using the terminal or an editor with code execution capabilitys such as vscode..
 
-Running the code will train the perceptron algorithm, and a 3D plot will be displayed of the datapoints and the found separation plane. A second plot will display the classification errors per iteration during training.
+Running the code will train the perceptron algorithm on the iris dataset. The accuracy of the found model will be printed to console and a 3D plot will be displayed of the datapoints and the found separation plane. A second plot will display the classification errors per iteration during training.
 
 *In the case of `iris_1_versicolor.py`, you might want to run the code more than once to find the best separation plane.
 
