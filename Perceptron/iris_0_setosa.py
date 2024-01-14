@@ -1,6 +1,5 @@
 from Perceptron_algorithm import Perceptron_x, sgn_function, accuracy
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 from sklearn.model_selection import train_test_split
 import numpy as np
 from sklearn import datasets
